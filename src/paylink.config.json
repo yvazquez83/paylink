@@ -2,19 +2,19 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Yamel Vázquez",
+    "description": "Creador de OnSell Streaming",
+    "alt": "Photo of Yamel Vázquez",
+    "hero": "./images/IMG_gsts5v.jpg"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.vercel.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:yvazquezbardina@gmail.com" },
+    { "label": "Link", "value": "bx-link", "link": "https://mesirve.app/onsell" },
+    { "label": "GitHub", "value": "bxl-github", "link": "" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/yvazquez83" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/yvazquez83" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -33,7 +33,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/yvazquez83",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "id": "card",
-      "label": "Card",
+      "label": "Tarjeta CUP",
       "value": "",
       "img": "./images/payments/card.svg"
     }
