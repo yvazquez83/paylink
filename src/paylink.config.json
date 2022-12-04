@@ -33,7 +33,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "",
+      "value": "bc1q6urj43r8wtf6qtq845jdv6u2d5zdrnf5vu0hh8",
       "img": "./images/payments/btc.svg"
     },
     {
