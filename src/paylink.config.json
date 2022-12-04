@@ -111,7 +111,13 @@
     {
       "id": "card",
       "label": "Tarjeta CUP",
-      "value": "",
+      "value": "9205-1299-7425-9583",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "Tarjeta MLC",
+      "value": "9225-0699-9086-3511",
       "img": "./images/payments/card.svg"
     }
   ]
