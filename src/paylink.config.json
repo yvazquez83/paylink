@@ -116,7 +116,7 @@
     },
     {
       "id": "card",
-      "label": "Tarjeta midinero",
+      "label": "midinero",
       "value": "3701519810",
       "img": "./images/payments/card.svg"
     }
