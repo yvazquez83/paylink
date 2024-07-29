@@ -111,13 +111,12 @@
     {
       "id": "card",
       "label": "Tarjeta Prex",
-      "value": "Yamel Vazquez
-Cuenta Prex: 1769013",
+      "value": "1769013",
       "img": "./images/payments/card.svg"
     },
     {
       "id": "card",
-      "label": "midinero",
+      "label": "Tarjeta midinero",
       "value": "3701519810",
       "img": "./images/payments/card.svg"
     }
